@@ -1,13 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import {Container, AppBar, Typography, Grow, Grid} from '@material-ui/core';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-       <h1>SkillsBuild Training</h1>
-      </header>
-    </div>
+      
+       
+       
+          </div>
   );
 }
 
